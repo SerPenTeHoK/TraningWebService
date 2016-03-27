@@ -22,11 +22,11 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <processorPath useClasspath="true" />
-        <module name="ws1" />
+        <module name="L2.1" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
-      <module name="ws1" target="1.7" />
+      <module name="L2.1" target="1.8" />
     </bytecodeTargetLevel>
   </component>
 </project>
